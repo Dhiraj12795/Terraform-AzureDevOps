@@ -1,0 +1,5 @@
+.terraform/
+.teraform.lock.hcl
+.terraform.tfstate*
+*.tfvars
+any secret file of terraform code
